@@ -16,7 +16,7 @@ import lombok.Setter;
 
 //ese es el nombre de la entidad en la base dd datos
 @Table(name = "marca_coche")
-public class MarcaCocheEntity {
+public class BrandCarEntity {
 
     //Los tipos de datos en entidades solo se puede usar los wrappers ejem: Integer
 
